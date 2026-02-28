@@ -1,0 +1,7 @@
+# Archivos ejecutables compilados
+*.exe
+*.out
+*.app
+
+# Configuraciones locales del editor (Visual Studio Code)
+.vscode/
